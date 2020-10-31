@@ -78,3 +78,6 @@ jupyter notebook
 ## Feedback
 
 If you have ideas or find mistakes [please leave a note](https://github.com/spro/practical-pytorch/issues/new).
+
+
+### remove own jupter notebooks
